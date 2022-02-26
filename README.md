@@ -47,7 +47,7 @@ The format is DD/MM/YYYY-hh:mm:ss_Notification to Show It works with<br>24 hour 
 ## License
 
 ```
-GNU AFFERO GENERAL PUBLIC LICENSE
+MIT
 ```
 
 ## Donations 
