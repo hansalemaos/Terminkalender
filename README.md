@@ -14,7 +14,7 @@
 </p><br>
 
 
-# Terminkalender
+# Terminkalender [DOWNLOAD THE INSTALLER HERE](https://github.com/hansalemaos/Terminkalender/raw/main/Terminkalender_setup.exe)
 
 
 
