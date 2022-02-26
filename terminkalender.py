@@ -69,12 +69,14 @@ class Terminkalender:
         alldatestocheck = []
         for alltermine in zeitmeldung:
             try:
+                print(f'xxx{alltermine[0]}')
                 allezeiten = [
                     [
-                        int(x.strip().lstrip("0"))
+                        int(x[:-1].lstrip('0') + x[-1])
                         for x in re.findall(r"\d+", alltermine[0])
                     ][:6]
                 ]
+                print(allezeiten)
                 for einzelne_zeit in allezeiten:
                     day, month, year, hour, minute, second = einzelne_zeit
                     datumadden = datetime(year, month, day, hour, minute, second)
