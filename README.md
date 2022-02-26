@@ -1,7 +1,7 @@
 <p align="center"><a href="https://twitter.com/Aprender_alemao"><img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="50"/></a><a href="https://www.facebook.com/estudaralemao/"><img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/facebook.png" alt="Facebook" title="Facebook" width="50"/></a><a href="https://www.instagram.com/estudaralemao/"><img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="Instagram" title="Instagram" width="50"/></a><a href="https://www.youtube.com/c/wwwqueroestudaralemaocombr"><img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/youtube.png" alt="YouTube" title="YouTube" width="50"/></a><a href="https://api.whatsapp.com/send?phone=5511989782756&text=I%20want%20to%20know%20..."><img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/whatsapp.png" alt="WhatsApp" title="WhatsApp" width="50"/></a><a href="https://www.queroestudaralemao.com.br"><img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/website.png" alt="WWW" title="WWW" width="50"/></a><a href="https://br.pinterest.com/chucrutehans/"><img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/pinterest.png" alt="Pinterest" title="Pinterest" width="50"/></a><a href="mailto:aulasparticularesdealemaosp@gmail.com?subject=I%20want%20to%20know%20...%20"><img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/mail.png" alt="E-Mail" title="E-Mail" width="50"/>
 </a>
 
-<a href="https://www.queroestudaralemao.com.br"><img src="C:\Users\Gamer\Documents\Downloads\terminkalender\icon.jpg" width="150" /></a></p>
+<a href="https://www.queroestudaralemao.com.br"><img src="icon.jpg" width="150" /></a></p>
 
 <p align="center">
 <a href=https://github.com/hansalemaos><img src="https://img.shields.io/badge/author-hansalemaos-black"/></a>
@@ -33,15 +33,15 @@
 
 | _,.-'``'-.,_,.'`` Step 1 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
-Start the app "Terminkalender" and click on the edit button to add the<br>notifications|<img src="C:\Users\Gamer\Documents\Downloads\terminkalender\66_800x800.png" width="400"/> |
+Start the app "Terminkalender" and click on the edit button to add the<br>notifications|<img src="66_800x800.png" width="400"/> |
 
 | _,.-'``'-.,_,.'`` Step 2 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
-The format is DD/MM/YYYY-hh:mm:ss_Notification to Show It works with<br>24 hour time (e.g. 11 p.m. = 23)|<img src="C:\Users\Gamer\Documents\Downloads\terminkalender\132_800x800.png" width="400"/> |
+The format is DD/MM/YYYY-hh:mm:ss_Notification to Show It works with<br>24 hour time (e.g. 11 p.m. = 23)|<img src="132_800x800.png" width="400"/> |
 
 | _,.-'``'-.,_,.'`` Step 3 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
-15 minutes before and after the configured date you will see a Windows<br>10 Toast notification|<img src="C:\Users\Gamer\Documents\Downloads\terminkalender\198_800x800.png" width="400"/> |
+15 minutes before and after the configured date you will see a Windows<br>10 Toast notification|<img src="198_800x800.png" width="400"/> |
 
 
 ## License
